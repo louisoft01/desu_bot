@@ -5937,11 +5937,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\source\\repos\\desubot\\desubot\\desubot.csproj",
+      "projectUniqueName": "D:\\Documents\\VPS Stuff\\desu_bot-master\\desubot\\desubot.csproj",
       "projectName": "desubot",
-      "projectPath": "C:\\Users\\louis\\source\\repos\\desubot\\desubot\\desubot.csproj",
+      "projectPath": "D:\\Documents\\VPS Stuff\\desu_bot-master\\desubot\\desubot.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\source\\repos\\desubot\\desubot\\obj\\",
+      "outputPath": "D:\\Documents\\VPS Stuff\\desu_bot-master\\desubot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

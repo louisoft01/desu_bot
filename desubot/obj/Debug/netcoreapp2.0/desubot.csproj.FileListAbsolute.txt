@@ -1,0 +1,26 @@
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.csprojResolveAssemblyReference.cache
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.Properties.Resources.resources
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.csproj.GenerateResource.Cache
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.AssemblyInfo.cs
+C:\Users\louis\Desktop\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.deps.json
+C:\Users\louis\Desktop\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.runtimeconfig.json
+C:\Users\louis\Desktop\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.runtimeconfig.dev.json
+C:\Users\louis\Desktop\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.dll
+C:\Users\louis\Desktop\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.pdb
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.dll
+C:\Users\louis\Desktop\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.pdb
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.csprojResolveAssemblyReference.cache
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.Properties.Resources.resources
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.csproj.GenerateResource.Cache
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.csproj.CoreCompileInputs.cache
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.AssemblyInfoInputs.cache
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.AssemblyInfo.cs
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.dll
+D:\Documents\VPS Stuff\desu_bot-master\desubot\obj\Debug\netcoreapp2.0\desubot.pdb
+D:\Documents\VPS Stuff\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.deps.json
+D:\Documents\VPS Stuff\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.runtimeconfig.json
+D:\Documents\VPS Stuff\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.runtimeconfig.dev.json
+D:\Documents\VPS Stuff\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.dll
+D:\Documents\VPS Stuff\desu_bot-master\desubot\bin\Debug\netcoreapp2.0\desubot.pdb
