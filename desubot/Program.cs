@@ -61,14 +61,12 @@ namespace desubot
                 await message.Channel.SendMessageAsync("Commands: `£ping £alex £desu £bored £meme £monika £kotori £waifu £^ ~~£server~~ £about`");
 
 
-            if (message.Content.ToLowerInvariant().Contains("trap"))
+            if (message.Content.ToLowerInvariant().Contains("£trap"))
                 await message.Channel.SendMessageAsync("https://i.imgur.com/yGL8vL5.png");
 
-            if (message.Content.ToLowerInvariant().Contains("gay"))
+            if (message.Content.ToLowerInvariant().Contains("£gay"))
                 await message.Channel.SendMessageAsync("https://louisoft01.com/logs/stopbeingabich/yag.jpg");
 
-            if (message.Content.ToLowerInvariant().Contains("nigger"))
-                await message.Channel.SendMessageAsync("alex is doing this shit");
 
             if (message.Content == "£^")
                 await message.Channel.SendMessageAsync("good point desu");
@@ -86,7 +84,7 @@ namespace desubot
                 await message.Channel.SendMessageAsync("Just monika");
 
 
-            if (message.Content == "£joke")
+            if (message.Content == "£trash")
                 await message.Channel.SendMessageAsync("Nico http://decaf.kouhi.me/lovelive/images/archive/4/42/20160706031910%21Nico_smile_r438.jpg");
 
             if (message.Content == "£about")
